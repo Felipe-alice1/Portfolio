@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descrição>Espontâneo, ousado e competitivo, o ariano gosta de se sentir importante. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descrição>Paciente, mas também teimoso, o taurino é conhecido por ser leal e dedicado nos relacionamentos. 
+</descrição>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descrição>Versátil, comunicativo, brincalhão e curioso, o geminiano é espontâneo e errante. 
+</descrição>
+    </signo>
+    
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descrição>Sensível, carinhoso e intuitivo, o canceriano valoriza a família e os amigos. 
+</descrição>
+    </signo>
+    
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descrição>Confiante, generoso, nobre e dramático, o leonino é autoconfiante e tem uma forte personalidade. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descrição>Perfeionista, crítico, lógico, prático e sistemático, o virginiano é conhecido por ser organizado. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descrição>Justo, diplomático e em busca de equilíbrio e harmonia, o libriano pode ser indeciso. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descrição>Intuitivo, misterioso e intenso, o escorpiano usa a energia emocional como combustível. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descrição>Otimista, aventureiro e em busca de conhecimento, o sagitariano gosta de liberdade e diversão.
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descrição>Responsável, ambicioso e persistente, o capricorniano é focado no profissional. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descrição>Inovador, original e independente, o aquariano é tecnológico e moderno. 
+</descrição>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descrição>Sonhador, imaginativo e espiritual, o pisciano é sensível. 
+</descrição>
+    </signo>
+    
+</signos>
+
